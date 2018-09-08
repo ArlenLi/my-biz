@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from '../Asset/Images/Group 484.png'
+import logo from '../Asset/Images/Logo.png'
 
 export class Home extends Component {
   displayName = Home.name
@@ -26,7 +26,7 @@ export class Home extends Component {
 
   handleSubmit(event) {
       if (window.confirm('Are you sure you want to start ' + this.state.target + ' in ' + this.state.suburb)){
-        event.preventDefault();
+        this.props.history.push('/Survey');
       }        
   }
 
@@ -46,6 +46,7 @@ export class Home extends Component {
                     <option value="childcare">Childcare</option>
                     <option value="fitness">Fitness</option>
                     <option value="bookstore">Bookstore</option>
+                    <option value="childrenParty">Children Party</option>
                 </select>
             </div>
           
