@@ -25,9 +25,9 @@ export class Home extends Component {
   }
 
   handleSubmit(event) {
-      if (window.confirm('Are you sure you want to start ' + this.state.target + ' in ' + this.state.suburb)){
-        this.props.history.push('/Survey');
-      }        
+      // if (window.confirm('Are you sure you want to start ' + this.state.target + ' in ' + this.state.suburb)){
+        this.props.history.push('/Ranking');
+    // }        
   }
 
   render() {
@@ -41,7 +41,7 @@ export class Home extends Component {
           <div class="form-group">
             <label>Please pick your target:</label>
                 <select class="form-control" value={this.state.target} onChange={this.handleChange} name="target">
-                    <option value="cafe">Grapefruit</option>
+                    <option value="cafe">Cafe</option>
                     <option value="restaurant">Restaurant</option>
                     <option value="childcare">Childcare</option>
                     <option value="fitness">Fitness</option>
@@ -62,7 +62,7 @@ export class Home extends Component {
                   onChange={this.handleChange} />
             </div>
             <div class="col-md-8 col-md-offset-2 text-center"> 
-              <button type="submit" class="btn btn-primary" value="Submit">Show me relevant information</button>
+              <button type="submit" class="btn btn-primary" value="Submit">Set target preference</button>
             </div>
         </form >
       </div>

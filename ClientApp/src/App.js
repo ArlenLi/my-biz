@@ -5,6 +5,8 @@ import { Home } from './components/Home';
 import { FetchData } from './components/FetchData';
 import { Counter } from './components/Counter';
 import { Survey} from './components/Survey';
+import {Ranking} from './components/Ranking';
+import {PopulationSurvey} from './components/PopulationSurvey'
 
 export default class App extends Component {
   displayName = App.name
@@ -16,6 +18,12 @@ export default class App extends Component {
         <Route path='/counter' component={Counter} />
         <Route path='/fetchdata' component={FetchData} />
         <Route path='/Survey' component={Survey} />
+        <Route path='/Ranking' component={Ranking} />
+        <Route path='/PopulationSurvey' component={PopulationSurvey} />
+
+        {/* <Route path='/PopulationSurvey' component={PopulationSurvey} /> */}
+
+
       </Layout>
     );
   }

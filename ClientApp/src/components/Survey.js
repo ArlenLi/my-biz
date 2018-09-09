@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import logo from '../Asset/Images/Logo.png'
+import risk from '../Asset/Images/Risk.png'
 
 export class Survey extends Component {
   displayName = Survey.name
@@ -26,6 +27,9 @@ export class Survey extends Component {
   }
 
   handleSubmit(event) {
+        this.setState({
+            showResults: true
+        })
         event.preventDefault();
              
   }
@@ -75,10 +79,30 @@ export class Survey extends Component {
                   onChange={this.handleChange} />
             </div>
             <div class="col-md-8 col-md-offset-2 text-center"> 
-              <button type="submit" class="btn btn-primary" value="Submit">Calculate the successful rate</button>
+              <button type="submit" class="btn btn-primary" value="Submit">Calculate the risk rate</button>
             </div>
         </form >
+
+        <div>
+            {this.state.showResults ? <Results /> : null}
+        </div>
       </div>
     );
   }
+}
+
+// var Results = React.createClass({
+//     render: function() {
+//         return (
+//             <img src ={logo} />
+//         );
+//     }   
+// })
+
+export default class Results extends React.Component {
+    render(){
+        return (
+            <img src ={risk} />
+        );
+     }
 }
