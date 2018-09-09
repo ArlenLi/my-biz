@@ -1,0 +1,141 @@
+Suburb,Year,Businee Size,Number Of Businesses,Number of Entries,Number Of Exits
+Hawthorn,2013,Non-employing businesses,2005,0,0
+Hawthorn,2013,Employing businesses: 1-4 employees,850,0,0
+Hawthorn,2013,Employing businesses: 5-19 employees,301,0,0
+Hawthorn,2013,Employing businesses: 20 or more employees,77,0,0
+Hawthorn,2014,Non-employing businesses,2031,287,312
+Hawthorn,2014,Employing businesses: 1-4 employees,842,95,63
+Hawthorn,2014,Employing businesses: 5-19 employees,294,13,20
+Hawthorn,2014,Employing businesses: 20 or more employees,80,6,5
+Hawthorn,2015,Non-employing businesses,2071,319,293
+Hawthorn,2015,Employing businesses: 1-4 employees,826,99,79
+Hawthorn,2015,Employing businesses: 5-19 employees,305,22,20
+Hawthorn,2015,Employing businesses: 20 or more employees,91,3,6
+Hawthorn,2016,Non-employing businesses,2079,355,289
+Hawthorn,2016,Employing businesses: 1-4 employees,887,134,55
+Hawthorn,2016,Employing businesses: 5-19 employees,323,19,13
+Hawthorn,2016,Employing businesses: 20 or more employees,77,3,9
+Hawthorn,2017,Non-employing businesses,2187,401,283
+Hawthorn,2017,Employing businesses: 1-4 employees,888,129,73
+Hawthorn,2017,Employing businesses: 5-19 employees,315,11,15
+Hawthorn,2017,Employing businesses: 20 or more employees,93,3,0
+Yarra - North,2013,Non-employing businesses,611,0,0
+Yarra - North,2013,Employing businesses: 1-4 employees,224,0,0
+Yarra - North,2013,Employing businesses: 5-19 employees,71,0,0
+Yarra - North,2013,Employing businesses: 20 or more employees,20,0,0
+Yarra - North,2014,Non-employing businesses,620,94,84
+Yarra - North,2014,Employing businesses: 1-4 employees,223,19,21
+Yarra - North,2014,Employing businesses: 5-19 employees,65,3,5
+Yarra - North,2014,Employing businesses: 20 or more employees,25,0,0
+Yarra - North,2015,Non-employing businesses,653,109,88
+Yarra - North,2015,Employing businesses: 1-4 employees,216,30,18
+Yarra - North,2015,Employing businesses: 5-19 employees,67,3,3
+Yarra - North,2015,Employing businesses: 20 or more employees,21,0,3
+Yarra - North,2016,Non-employing businesses,656,79,85
+Yarra - North,2016,Employing businesses: 1-4 employees,225,29,20
+Yarra - North,2016,Employing businesses: 5-19 employees,68,3,3
+Yarra - North,2016,Employing businesses: 20 or more employees,14,0,83
+Yarra - North,2017,Non-employing businesses,650,92,10
+Yarra - North,2017,Employing businesses: 1-4 employees,226,27,0
+Yarra - North,2017,Employing businesses: 5-19 employees,67,3,0
+Yarra - North,2017,Employing businesses: 20 or more employees,24,0,0
+East Melbourne,2013,Non-employing businesses,850,0,0
+East Melbourne,2013,Employing businesses: 1-4 employees,351,0,0
+East Melbourne,2013,Employing businesses: 5-19 employees,123,0,0
+East Melbourne,2013,Employing businesses: 20 or more employees,42,0,0
+East Melbourne,2014,Non-employing businesses,856,92,107
+East Melbourne,2014,Employing businesses: 1-4 employees,363,41,19
+East Melbourne,2014,Employing businesses: 5-19 employees,139,9,3
+East Melbourne,2014,Employing businesses: 20 or more employees,51,3,0
+East Melbourne,2015,Non-employing businesses,876,122,108
+East Melbourne,2015,Employing businesses: 1-4 employees,351,38,23
+East Melbourne,2015,Employing businesses: 5-19 employees,139,11,8
+East Melbourne,2015,Employing businesses: 20 or more employees,50,0,3
+East Melbourne,2016,Non-employing businesses,879,121,141
+East Melbourne,2016,Employing businesses: 1-4 employees,355,31,29
+East Melbourne,2016,Employing businesses: 5-19 employees,135,4,12
+East Melbourne,2016,Employing businesses: 20 or more employees,60,5,4
+East Melbourne,2017,Non-employing businesses,876,102,113
+East Melbourne,2017,Employing businesses: 1-4 employees,360,39,29
+East Melbourne,2017,Employing businesses: 5-19 employees,133,4,0
+East Melbourne,2017,Employing businesses: 20 or more employees,57,0,5
+Richmond,2013,Non-employing businesses,3012,0,0
+Richmond,2013,Employing businesses: 1-4 employees,1383,0,0
+Richmond,2013,Employing businesses: 5-19 employees,646,0,0
+Richmond,2013,Employing businesses: 20 or more employees,224,0,0
+Richmond,2014,Non-employing businesses,3045,495,476
+Richmond,2014,Employing businesses: 1-4 employees,1393,202,132
+Richmond,2014,Employing businesses: 5-19 employees,659,48,22
+Richmond,2014,Employing businesses: 20 or more employees,218,6,13
+Richmond,2015,Non-employing businesses,3135,551,473
+Richmond,2015,Employing businesses: 1-4 employees,1486,228,136
+Richmond,2015,Employing businesses: 5-19 employees,635,40,50
+Richmond,2015,Employing businesses: 20 or more employees,219,7,10
+Richmond,2016,Non-employing businesses,3364,646,495
+Richmond,2016,Employing businesses: 1-4 employees,1496,250,146
+Richmond,2016,Employing businesses: 5-19 employees,644,33,28
+Richmond,2016,Employing businesses: 20 or more employees,231,13,11
+Richmond,2017,Non-employing businesses,3577,714,532
+Richmond,2017,Employing businesses: 1-4 employees,1509,260,125
+Richmond,2017,Employing businesses: 5-19 employees,704,40,40
+Richmond,2017,Employing businesses: 20 or more employees,250,6,8
+Kew,2013,Non-employing businesses,2367,0,0
+Kew,2013,Employing businesses: 1-4 employees,925,0,0
+Kew,2013,Employing businesses: 5-19 employees,242,0,0
+Kew,2013,Employing businesses: 20 or more employees,59,0,0
+Kew,2014,Non-employing businesses,2484,375,330
+Kew,2014,Employing businesses: 1-4 employees,940,118,62
+Kew,2014,Employing businesses: 5-19 employees,259,18,16
+Kew,2014,Employing businesses: 20 or more employees,62,3,3
+Kew,2015,Non-employing businesses,2501,330,334
+Kew,2015,Employing businesses: 1-4 employees,983,122,61
+Kew,2015,Employing businesses: 5-19 employees,267,10,13
+Kew,2015,Employing businesses: 20 or more employees,65,0,0
+Kew,2016,Non-employing businesses,2551,376,303
+Kew,2016,Employing businesses: 1-4 employees,1014,126,61
+Kew,2016,Employing businesses: 5-19 employees,250,7,19
+Kew,2016,Employing businesses: 20 or more employees,59,3,3
+Kew,2017,Non-employing businesses,2683,408,299
+Kew,2017,Employing businesses: 1-4 employees,1019,127,73
+Kew,2017,Employing businesses: 5-19 employees,258,14,11
+Kew,2017,Employing businesses: 20 or more employees,61,3,0
+Collingwood,2013,Non-employing businesses,955,0,0
+Collingwood,2013,Employing businesses: 1-4 employees,475,0,0
+Collingwood,2013,Employing businesses: 5-19 employees,279,0,0
+Collingwood,2013,Employing businesses: 20 or more employees,87,0,0
+Collingwood,2014,Non-employing businesses,988,164,124
+Collingwood,2014,Employing businesses: 1-4 employees,493,68,34
+Collingwood,2014,Employing businesses: 5-19 employees,263,15,16
+Collingwood,2014,Employing businesses: 20 or more employees,98,3,3
+Collingwood,2015,Non-employing businesses,1038,169,142
+Collingwood,2015,Employing businesses: 1-4 employees,490,69,40
+Collingwood,2015,Employing businesses: 5-19 employees,274,18,12
+Collingwood,2015,Employing businesses: 20 or more employees,101,3,3
+Collingwood,2016,Non-employing businesses,1054,184,168
+Collingwood,2016,Employing businesses: 1-4 employees,498,84,55
+Collingwood,2016,Employing businesses: 5-19 employees,271,16,15
+Collingwood,2016,Employing businesses: 20 or more employees,89,3,5
+Collingwood,2017,Non-employing businesses,1131,219,174
+Collingwood,2017,Employing businesses: 1-4 employees,522,89,50
+Collingwood,2017,Employing businesses: 5-19 employees,267,19,11
+Collingwood,2017,Employing businesses: 20 or more employees,117,4,0
+Abbotsford,2013,Non-employing businesses,890,0,0
+Abbotsford,2013,Employing businesses: 1-4 employees,309,0,0
+Abbotsford,2013,Employing businesses: 5-19 employees,167,0,0
+Abbotsford,2013,Employing businesses: 20 or more employees,71,0,0
+Abbotsford,2014,Non-employing businesses,914,125,110
+Abbotsford,2014,Employing businesses: 1-4 employees,315,33,36
+Abbotsford,2014,Employing businesses: 5-19 employees,174,8,10
+Abbotsford,2014,Employing businesses: 20 or more employees,71,0,3
+Abbotsford,2015,Non-employing businesses,953,150,131
+Abbotsford,2015,Employing businesses: 1-4 employees,328,60,36
+Abbotsford,2015,Employing businesses: 5-19 employees,166,10,9
+Abbotsford,2015,Employing businesses: 20 or more employees,70,3,3
+Abbotsford,2016,Non-employing businesses,979,145,134
+Abbotsford,2016,Employing businesses: 1-4 employees,320,35,24
+Abbotsford,2016,Employing businesses: 5-19 employees,162,9,3
+Abbotsford,2016,Employing businesses: 20 or more employees,85,3,3
+Abbotsford,2017,Non-employing businesses,971,144,124
+Abbotsford,2017,Employing businesses: 1-4 employees,320,43,32
+Abbotsford,2017,Employing businesses: 5-19 employees,180,11,10
+Abbotsford,2017,Employing businesses: 20 or more employees,76,3,3

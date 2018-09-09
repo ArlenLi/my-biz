@@ -1,0 +1,50 @@
+Travel To Work,Number Of People,Percentage,Suburb
+"Car, as driver","1,710",33.0,Abbotsford
+Tram,785,15.2,Abbotsford
+Walked only,516,10.0,Abbotsford
+Train,469,9.1,Abbotsford
+Bicycle,389,7.5,Abbotsford
+People who travelled to work by public transport,"1,703",32.9,Abbotsford
+People who travelled to work by car as driver or passenger,"1,916",37.1,Abbotsford
+"Car, as driver","1,249",26.6,Collingwood
+Walked only,911,19.4,Collingwood
+Tram,743,15.8,Collingwood
+Bicycle,386,8.2,Collingwood
+Worked at home,229,4.9,Collingwood
+People who travelled to work by public transport,"1,325",28.1,Collingwood
+People who travelled to work by car as driver or passenger,"1,394",29.6,Collingwood
+"Car, as driver","6,493",53.3,Kew
+Tram,"1,005",8.3,Kew
+Worked at home,860,7.1,Kew
+Walked only,484,4.0,Kew
+"Car, as passenger",436,3.6,Kew
+People who travelled to work by public transport,"2,208",18.1,Kew
+People who travelled to work by car as driver or passenger,"7,152",58.7,Kew
+"Car, as driver","6,063",35.9,Richmond
+Tram,"2,523",14.9,Richmond
+Walked only,"2,059",12.2,Richmond
+Train,"1,744",10.3,Richmond
+Bicycle,908,5.4,Richmond
+People who travelled to work by public transport,"5,224",30.9,Richmond
+People who travelled to work by car as driver or passenger,"6,639",39.3,Richmond
+Walked only,815,27.0,East Melbourne
+"Car, as driver",800,26.5,East Melbourne
+Tram,360,11.9,East Melbourne
+Worked at home,223,7.4,East Melbourne
+Train,138,4.6,East Melbourne
+People who travelled to work by public transport,657,21.7,East Melbourne
+People who travelled to work by car as driver or passenger,901,29.7,East Melbourne
+Walked only,235,5,Yarra - North
+"Car, as driver",310,7,Yarra - North
+Tram,630,14,Yarra - North
+Worked at home,331,7,Yarra - North
+Train,300,6,Yarra - North
+People who travelled to work by public transport,1007,22,Yarra - North
+People who travelled to work by car as driver or passenger,1810,39,Yarra - North
+"Car, as driver","5,299",41.1,Hawthorn
+Train,"2,015",15.6,Hawthorn
+Tram,"1,055",8.2,Hawthorn
+Walked only,943,7.3,Hawthorn
+Worked at home,633,4.9,Hawthorn
+People who travelled to work by public transport,"3,901",30.2,Hawthorn
+People who travelled to work by car as driver or passenger,"5,774",44.7,Hawthorn
